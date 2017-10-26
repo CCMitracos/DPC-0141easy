@@ -9,6 +9,7 @@ Enter a sentence: So long and thanks for all the fish
 
 Output
 
+
 *****************************************
 *                                       *
 *  So long and thanks for all the fish  *
